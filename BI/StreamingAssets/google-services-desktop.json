@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968336331805",
+    "firebase_url": "https://testfotoable.firebaseio.com",
+    "project_id": "testfotoable",
+    "storage_bucket": "testfotoable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968336331805:android:3c563823faa1f774",
+        "android_client_info": {
+          "package_name": "demo.ftpsdk.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968336331805-vb4i93kijvqpve815bie0289u3ibn3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE1jzMnEhjUwIWOPGvjBn-4K-coeNe-k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968336331805-vb4i93kijvqpve815bie0289u3ibn3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
